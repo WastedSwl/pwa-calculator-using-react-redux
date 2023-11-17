@@ -1,5 +1,7 @@
-# pwa-calculator-using-react-redux
+How to start app
+
 npm install
+
 npm start
 
 TASKS FOR THIS PROJECT
